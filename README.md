@@ -3,7 +3,7 @@ HEMAN dataset analysis for ICMPC 2018
 
 HEMAN is a dataset derived from an experiment where 12 participants were asked to annotate musical patterns in six pieces. 
 
-Instructions of the experiment:
+## Instructions of the experiment:
 “Please, analyze the following musical excerpts and mark all the musical motives you can find. 
 
 A musical motive is defined as a short musical idea, a salient recurring figure, musical fragment, or succession of notes that has some special importance in or is characteristic of a composition. 
@@ -21,12 +21,17 @@ You can listen to the music excerpts as many times as you like. You can find the
 
 
 
-Six pieces:
+## Six pieces:
 Bach – Cantata BWV 1, Movement 6, Horn 
+
 Bach – Cantata BWV 2, Movement 6, Soprano
+
 Beethoven – String Quartet, Op. 18, No. 1, Violin I
+
 Haydn – String Quartet, Op. 74, No. 1, Violin I
+
 Mozart – String Quartet, K. 155, Violin I
+
 Mozart – String Quartet, K. 458, Violin I
 
 
