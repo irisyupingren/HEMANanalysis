@@ -1,3 +1,6 @@
+Please cite: Ren, Iris Yuping, Oriol Nieto, Hendrik Vincent Koops, Anja Volk, Wouter Swierstra. Investigating Musical Pattern Ambiguity in a Human Annotated Dataset, Proceedings of the 15th International Conference on Music Perception and Cognition/10th triennial conference of the European Society for the Cognitive Sciences of Music, 2018.
+
+
 # HEMANanalysis
 HEMAN dataset analysis for ICMPC 2018
 
