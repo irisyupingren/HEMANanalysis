@@ -38,6 +38,5 @@ Mozart – String Quartet, K. 155, Violin I
 Mozart – String Quartet, K. 458, Violin I
 
 
-Please cite the paper: 
 
 Three formats of the dataset are available. 
